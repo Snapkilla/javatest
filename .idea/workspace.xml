@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeac8d78-67e8-4b5d-afc1-166d3566bf6b" name="Default" comment="work" />
+    <list default="true" id="aeac8d78-67e8-4b5d-afc1-166d3566bf6b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../javatest/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -297,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510601696325</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="work">
+      <created>1510601819242</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1510601819242</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
