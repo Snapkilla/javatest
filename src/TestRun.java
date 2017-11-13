@@ -5,7 +5,7 @@ public class  TestRun{
         sets = new String[5][5];
         for (int i=0; i<sets.length;i++ ){
             for (int j = 0; j < sets[0].length;j++){
-                sets[i][j] = String.format("1" + Integer.toString(j) ) ;
+                sets[i][j] = String.format(Integer.toString(j) ) ;
                 System.out.println(sets[i][j]);
             }
         }
