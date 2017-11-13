@@ -18,7 +18,6 @@ class javatest {
                 item[i] = temparray[i];
             }
         }
-
         List<String> basicset = Arrays.asList(setslist.get(0));
         for (String[] items: setslist) {
             if (Arrays.asList(items).containsAll(basicset)){
