@@ -8,6 +8,7 @@ class javatest {
         List<String[]> setslist = Arrays.asList(sets);
         for (String[] item : setslist) {
             List templist = new ArrayList(Arrays.asList(item));
+
             Set<String> tempset = new HashSet<>();
             tempset.addAll(templist);
             templist.clear();
